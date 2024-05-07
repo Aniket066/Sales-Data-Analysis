@@ -1,8 +1,8 @@
 # Sales-Data-Analysis
-   import pandas as pd
-   import matplotlib.pyplot as plt
-   import seaborn as sns
-   import warnings
+   - import pandas as pd
+   - import matplotlib.pyplot as plt
+   - import seaborn as sns
+   - import warnings
 ________________________________________________________________________________________________________________________________________________________________________________
 ## Results
  ### 1> 
